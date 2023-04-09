@@ -1,0 +1,3 @@
+D:\Visual Studio Projects\Tanks_Battle_Game\Tanks_Battle_Game\Debug\Tanks_Battle_Game.exe
+C:\Users\Yeah\Desktop\2-41\ООП\Правленные танчики 2023\Tanks_Battle_Game\Debug\Tanks_Battle_Game.exe
+C:\Users\monok\OneDrive\Рабочий стол\Правленные танчики 2023\Tanks_Battle_Game\Debug\Tanks_Battle_Game.exe

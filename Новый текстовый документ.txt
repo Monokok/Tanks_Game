@@ -1,0 +1,23 @@
+if ((Keyboard::isKeyPressed(Keyboard::Left) || (Keyboard::isKeyPressed(Keyboard::A)))) {
+			MyTank.dir = 1; MyTank.speed = 0.1;//dir =1 - направление вверх, speed =0.1 - скорость движения. Заметьте - время мы уже здесь ни на что не умножаем и нигде не используем каждый раз
+			MyTank.sprite.setRotation(-90);
+			GetCoordinateForView(MyTank.GetX(), MyTank.GetY());
+		}
+
+		else if ((Keyboard::isKeyPressed(Keyboard::Right) || (Keyboard::isKeyPressed(Keyboard::D)))) {
+			MyTank.dir = 0; MyTank.speed = 0.1;//направление вправо, см выше
+			MyTank.sprite.setRotation(90);
+			GetCoordinateForView(MyTank.GetX(), MyTank.GetY());
+		}
+
+		else if ((Keyboard::isKeyPressed(Keyboard::Up) || (Keyboard::isKeyPressed(Keyboard::W)))) {
+			MyTank.dir = 3; MyTank.speed = 0.1;//направление вниз, см выше
+			MyTank.sprite.setRotation(360);
+			GetCoordinateForView(MyTank.GetX(), MyTank.GetY());
+		}
+
+		else if ((Keyboard::isKeyPressed(Keyboard::Down) || (Keyboard::isKeyPressed(Keyboard::S)))) { //если нажата клавиша стрелка влево или англ буква А
+			MyTank.dir = 2; MyTank.speed = 0.1;//направление вверх, см выше
+			MyTank.sprite.setRotation(180);
+			GetCoordinateForView(MyTank.GetX(), MyTank.GetY());
+		}

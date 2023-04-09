@@ -1,0 +1,161 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level0.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.5
+        },
+        "#Bricks_001": {
+            "scaleInDock": 1
+        },
+        "#Bricks_002": {
+            "scaleInDock": 1
+        },
+        "#Bricks_003": {
+            "scaleInDock": 1
+        },
+        "#Bricks_004": {
+            "scaleInDock": 1
+        },
+        "#ground_asphalt_new_01": {
+            "scaleInDock": 1
+        },
+        "#ground_asphalt_new_02": {
+            "scaleInDock": 1
+        },
+        "#ground_asphalt_old_02": {
+            "scaleInDock": 1
+        },
+        "#ground_asphalt_old_03": {
+            "scaleInDock": 1
+        },
+        "#ground_asphalt_old_04": {
+            "scaleInDock": 1
+        },
+        "#ground_asphalt_old_05": {
+            "scaleInDock": 1
+        },
+        "#ground_asphalt_old_06": {
+            "scaleInDock": 1
+        },
+        "#ground_asphalt_old_07": {
+            "scaleInDock": 1
+        },
+        "#tex_Water": {
+            "scaleInDock": 1
+        },
+        "#wall128x128": {
+            "scaleInDock": 1
+        },
+        "level0.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 4227.272727272727,
+                "y": 2596.969696969697
+            }
+        },
+        "level0.tmx#TileSet": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.25
+        },
+        "level1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 3472,
+                "y": 3072
+            }
+        },
+        "level1.tmx#TileSet": {
+            "scaleInDock": 0.125
+        },
+        "безымянный.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 872,
+                "y": 1352
+            }
+        },
+        "безымянный.tmx#Bricks_001": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#Bricks_002": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#Bricks_003": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#Bricks_004": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#ground_asphalt_new_01": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#ground_asphalt_new_02": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#ground_asphalt_old_02": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#ground_asphalt_old_03": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#ground_asphalt_old_04": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#ground_asphalt_old_05": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#ground_asphalt_old_06": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#ground_asphalt_old_07": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#tex_Water": {
+            "scaleInDock": 1
+        },
+        "безымянный.tmx#wall128x128": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/Yeah/Desktop/2-41/ООП/Tanks_Battle_Game/xml/tiles_images",
+    "last.imagePath": "C:/Users/Yeah/Desktop/2-41/ООП/Tanks_Battle_Game/xml/tiles_images",
+    "map.height": 20,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 250,
+    "map.tileWidth": 250,
+    "map.width": 30,
+    "openFiles": [
+        "level0.tmx",
+        "level1.tmx"
+    ],
+    "project": "level0-tiled-project.tiled-project",
+    "recentFiles": [
+        "level1.tmx",
+        "level0.tmx",
+        "безымянный.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Все файлы (*)",
+    "tileset.tileSize": {
+        "height": 250,
+        "width": 250
+    },
+    "tileset.type": 0
+}
